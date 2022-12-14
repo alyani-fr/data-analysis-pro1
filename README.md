@@ -2,7 +2,7 @@
 This is a data analysis challenge as part of the FreeCodeCamp's 'Data Analysis with Python' course completion project.
 The project name is Demographic Data Analyzer. As part of the challenge, Pandas is used to analyze demographic based on the given dataset of demographic data that was ectracted from the 1994 Census database. 
 
-## By using Pandas, the following questions must be answered:
+### By using Pandas, the following questions must be answered:
 1. How many people of each race are represented in this dataset? This should be a Pandas series with race names as the index labels. (race column)
 2. What is the average age of men?
 3. What is the percentage of people who have a Bachelor's degree?
